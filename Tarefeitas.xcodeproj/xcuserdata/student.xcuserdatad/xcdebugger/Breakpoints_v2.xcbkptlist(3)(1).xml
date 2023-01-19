@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2B6A9E22-89CC-4D4F-9EFC-7A2AC104D45D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "DetalhesGrupoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685 - 33a9feffcb2268a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.barraProgressView.getter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685 - 7a06cebb8301c7fe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.barraProgressView.setter : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685 - 2dd5ba8a81e20eff"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.barraProgressView.modify : Swift.Optional&lt;__C.UIProgressView&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685 - 86c7ea117a6c1aad"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.barraProgressView.modify : Swift.Optional&lt;__C.UIProgressView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685 - 37db1319f18730df"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tarefeitas.DetalhesGrupoViewController"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  uuid = "30753E8B-1F64-4FE7-B4D2-253B8DCBF685 - 8cb3244b4ef2b0f9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tarefeitas.DetalhesGrupoViewController&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "462">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

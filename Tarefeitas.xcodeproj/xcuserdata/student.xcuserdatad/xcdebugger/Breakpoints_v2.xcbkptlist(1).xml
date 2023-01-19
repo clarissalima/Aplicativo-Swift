@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2614EB3-A52C-47C7-8526-5050D22A3CCA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7E2C167-402B-4B9F-AC7D-4206E48A2A7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/GruposTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB09347F-FEFA-40D1-AEDB-C1948D41E4E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/GruposTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "loadProducts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/GruposTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GruposTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - db91a104076a60f4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.grupos.getter : Swift.Array&lt;Tarefeitas.Grupos&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - c627961654b038c8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.grupos.setter : Swift.Array&lt;Tarefeitas.Grupos&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - 98c67fe9fa71c2f7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.grupos.modify : Swift.Array&lt;Tarefeitas.Grupos&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - a2888ef630df6fc8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.grupos.modify : Swift.Array&lt;Tarefeitas.Grupos&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - 486987b4769ebac8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.init(style: __C.UITableViewStyle) -&gt; Tarefeitas.GruposTableViewController"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - 270eee5125133a9e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tarefeitas.GruposTableViewController"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "145">
+               </Location>
+               <Location
+                  uuid = "87B4C2DF-B0B4-45A2-AC70-72192D826C5E - 2978e4379415dcdd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.GruposTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tarefeitas.GruposTableViewController&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/GruposTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "99">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "147D5FB8-D031-4792-8FC6-1A27A4DBE36B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/GruposTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "852C7128-1D83-4300-A527-815D54AF2DA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DetalhesGrupoTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "852C7128-1D83-4300-A527-815D54AF2DA9 - 5dd4b4908a79d4ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.nomePessoaLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "852C7128-1D83-4300-A527-815D54AF2DA9 - 6c650653926238da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.nomePessoaLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "852C7128-1D83-4300-A527-815D54AF2DA9 - f46ecda703863fc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.nomePessoaLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "852C7128-1D83-4300-A527-815D54AF2DA9 - 76ba55b07aed30eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.nomePessoaLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "852C7128-1D83-4300-A527-815D54AF2DA9 - a315c2d29d7a671a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Tarefeitas.DetalhesGrupoTableViewCell"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "852C7128-1D83-4300-A527-815D54AF2DA9 - 67378a41e64bb9ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tarefeitas.DetalhesGrupoTableViewCell&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "202">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "DetalhesGrupoTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610 - ffff5e11c3f0c308"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.ImageTela2.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610 - 5e95fabe22b2f714"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.ImageTela2.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610 - a8ddea0976873e0b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.ImageTela2.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610 - be73481840af1766"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.ImageTela2.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610 - a315c2d29d7a671a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Tarefeitas.DetalhesGrupoTableViewCell"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "AAA8C8B2-173B-4BF6-9A46-31868C093610 - 67378a41e64bb9ae"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tarefeitas.DetalhesGrupoTableViewCell&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52408BC7-C142-4301-917D-97F09B881CCB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "DetalhesGrupoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "52408BC7-C142-4301-917D-97F09B881CCB - 7b990124a254d277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.membros.getter : Swift.Optional&lt;Swift.Array&lt;Tarefeitas.CellTarefa&gt;&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "52408BC7-C142-4301-917D-97F09B881CCB - 4e4d55f96fdfa66b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.membros.setter : Swift.Optional&lt;Swift.Array&lt;Tarefeitas.CellTarefa&gt;&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "52408BC7-C142-4301-917D-97F09B881CCB - c7b33bdeed6d6f74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.membros.modify : Swift.Optional&lt;Swift.Array&lt;Tarefeitas.CellTarefa&gt;&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "52408BC7-C142-4301-917D-97F09B881CCB - 8a63548d109527ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.membros.modify : Swift.Optional&lt;Swift.Array&lt;Tarefeitas.CellTarefa&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "52408BC7-C142-4301-917D-97F09B881CCB - 37db1319f18730df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Tarefeitas.DetalhesGrupoViewController"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "52408BC7-C142-4301-917D-97F09B881CCB - 8cb3244b4ef2b0f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tarefeitas.DetalhesGrupoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tarefeitas.DetalhesGrupoViewController&gt;"
+                  moduleName = "Tarefeitas"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/student/Downloads/Tarefeitas/Tarefeitas/DetalhesGrupoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "99">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EA90880-7AD1-465D-A3EB-53DB20A7760E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80CF5A57-9580-4260-B1BB-01EFF6153731"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DABA30AA-EF34-4BB0-96A5-5DFFE6231D23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/GruposTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6221D6C3-59E0-49DC-8B1E-9AA732D39780"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tarefeitas/DetalhesGrupoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
